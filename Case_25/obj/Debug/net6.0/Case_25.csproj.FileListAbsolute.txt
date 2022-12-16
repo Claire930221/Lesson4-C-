@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\lesson4\Case_25\bin\Debug\net6.0\Case_25.exe
+C:\Users\User\Desktop\C#\lesson4\Case_25\bin\Debug\net6.0\Case_25.deps.json
+C:\Users\User\Desktop\C#\lesson4\Case_25\bin\Debug\net6.0\Case_25.runtimeconfig.json
+C:\Users\User\Desktop\C#\lesson4\Case_25\bin\Debug\net6.0\Case_25.dll
+C:\Users\User\Desktop\C#\lesson4\Case_25\bin\Debug\net6.0\Case_25.pdb
+C:\Users\User\Desktop\C#\lesson4\Case_25\obj\Debug\net6.0\Case_25.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\lesson4\Case_25\obj\Debug\net6.0\Case_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\lesson4\Case_25\obj\Debug\net6.0\Case_25.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\lesson4\Case_25\obj\Debug\net6.0\Case_25.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\lesson4\Case_25\obj\Debug\net6.0\Case_25.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\lesson4\Case_25\obj\Debug\net6.0\Case_25.dll
+C:\Users\User\Desktop\C#\lesson4\Case_25\obj\Debug\net6.0\refint\Case_25.dll
+C:\Users\User\Desktop\C#\lesson4\Case_25\obj\Debug\net6.0\Case_25.pdb
+C:\Users\User\Desktop\C#\lesson4\Case_25\obj\Debug\net6.0\Case_25.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\lesson4\Case_25\obj\Debug\net6.0\ref\Case_25.dll
